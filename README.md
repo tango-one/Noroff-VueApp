@@ -1,4 +1,4 @@
-# menu3
+# Noroff-VueApp
 
 ## Project setup
 ```
